@@ -1,0 +1,1 @@
+To launch the code, LangChain and Langraph must be downloaded. You must also have an OpenAI_Key and Tavily_Key
